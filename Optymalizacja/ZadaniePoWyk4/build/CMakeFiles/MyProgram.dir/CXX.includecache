@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sdul/studiaMagisterskie/Optymalizacja/ZadaniePoWyk4/rownanie.cpp
+iostream
+-
+vector
+-
+rownanie.h
+/home/sdul/studiaMagisterskie/Optymalizacja/ZadaniePoWyk4/rownanie.h
+
+/home/sdul/studiaMagisterskie/Optymalizacja/ZadaniePoWyk4/rownanie.h
+string
+-
+iostream
+-
+vector
+-
+

@@ -1,0 +1,3 @@
+/home/sdul/studiaMagisterskie/Optymalizacja/Zadanie2PoWyk3/build/CMakeFiles/rebuild_cache.dir
+/home/sdul/studiaMagisterskie/Optymalizacja/Zadanie2PoWyk3/build/CMakeFiles/edit_cache.dir
+/home/sdul/studiaMagisterskie/Optymalizacja/Zadanie2PoWyk3/build/CMakeFiles/MyProgram.dir

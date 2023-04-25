@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/MyProgram.dir/main.cpp.o CMakeFiles/MyProgram.dir/metodaZlotyPodzial.cpp.o CMakeFiles/MyProgram.dir/rownanie.cpp.o  -o MyProgram 

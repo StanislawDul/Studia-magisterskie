@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sdul/studiaMagisterskie/Optymalizacja/Zadanie2PoWyk3/main.cpp
+functional
+-
+cstdio
+-
+iostream
+-
+cstdlib
+-
+cmath
+-
+

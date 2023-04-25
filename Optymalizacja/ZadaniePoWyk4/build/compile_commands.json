@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/sdul/studiaMagisterskie/Optymalizacja/ZadaniePoWyk4/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/MyProgram.dir/main.cpp.o -c /home/sdul/studiaMagisterskie/Optymalizacja/ZadaniePoWyk4/main.cpp",
+  "file": "/home/sdul/studiaMagisterskie/Optymalizacja/ZadaniePoWyk4/main.cpp"
+},
+{
+  "directory": "/home/sdul/studiaMagisterskie/Optymalizacja/ZadaniePoWyk4/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/MyProgram.dir/metodaZlotyPodzial.cpp.o -c /home/sdul/studiaMagisterskie/Optymalizacja/ZadaniePoWyk4/metodaZlotyPodzial.cpp",
+  "file": "/home/sdul/studiaMagisterskie/Optymalizacja/ZadaniePoWyk4/metodaZlotyPodzial.cpp"
+},
+{
+  "directory": "/home/sdul/studiaMagisterskie/Optymalizacja/ZadaniePoWyk4/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/MyProgram.dir/rownanie.cpp.o -c /home/sdul/studiaMagisterskie/Optymalizacja/ZadaniePoWyk4/rownanie.cpp",
+  "file": "/home/sdul/studiaMagisterskie/Optymalizacja/ZadaniePoWyk4/rownanie.cpp"
+}
+]
